@@ -1,0 +1,9 @@
+li a {
+  border-bottom: solid 2px transparent;
+  transition: all 2s ease;
+}
+
+li a:hover {
+  border-bottom: solid 2px white;
+  padding-bottom: 6px;
+}
