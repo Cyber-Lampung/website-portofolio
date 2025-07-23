@@ -1,6 +1,10 @@
+body {
+  scroll-behavior: smooth;
+}
+
 li a {
   border-bottom: solid 2px transparent;
-  transition: all 2s ease;
+  transition: all 1s ease;
 }
 
 li a:hover {
